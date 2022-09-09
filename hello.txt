@@ -1,0 +1,6 @@
+Hello world!Personalize the pitch of your selected voice, 
+
+up to 20 semitones more or less from the default. 
+
+Adjust your speaking rate to be 4x faster or slower than the normal rate.
+
